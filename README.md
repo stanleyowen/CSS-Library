@@ -4,4 +4,7 @@ I'm Stanley Owen from Indonesia, a junior high school student passionates about 
 
 <div align = 'center'>
 
+<img src = "stanleyowen.svg" alt = "Top Langs">
+<img src = "stanleyowen-2.svg" alt = "Metrics">
+
 </div>
