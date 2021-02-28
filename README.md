@@ -4,7 +4,7 @@ I'm Stanley Owen from Indonesia, a junior high school student passionates about 
 
 <div align = 'center'>
 
-<img src = "stanleyowen.svg" alt = "Top Langs">
-<img src = "stanleyowen-2.svg" alt = "Metrics">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=stanleyowen&langs_count=8" alt = "Top Langs">
+<img src = "https://metrics.lecoq.io/stanleyowen?template=classic&config.timezone=Asia%2FJakarta" alt = "Metrics">
 
 </div>
